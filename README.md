@@ -12,7 +12,9 @@
 
 **MENTOE NAME**: Neela Santhosh Kumar 
 
-**TASK 1(PORTFOLIO WEBSITE WITH ADVANCED ANIMATIONS):**
+
+
+ # **TASK 1(PORTFOLIO WEBSITE WITH ADVANCED ANIMATIONS):**
 
 1.CREATE A PERSONAL PORTFOLIO WEBSITE USING MODERN CSS ANIMATIONS AND LIBRARIES LIKE GSAP OR THREE.JS.
 
@@ -21,11 +23,11 @@
 
 
 
-**Description**:
+ # **Description**:
          This internship task requires building a personal portfolio website with advanced animations. The website should incorporate modern CSS animations and JavaScript libraries like GSAP or Three.js to enhance interactivity and visual appeal. The final deliverable should be a visually smooth and dynamic website with fluid transitions.
 
 
-**Features:**
+# **Features:**
 
 ✅ Modern UI Design – A sleek, professional layout showcasing the intern’s skills and projects.
 
@@ -38,7 +40,7 @@
 ✅ Project Showcase – A section displaying past work and experience with engaging visuals.
 
 
-**Technology:**
+# **Technology:**
 
 🟢 HTML5 & CSS3 – For structuring and styling the portfolio.
 
