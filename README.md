@@ -55,3 +55,10 @@
 🟢 Git & GitHub – For version control and deployment.
 
 🟢 Netlify/Vercel – For hosting and live deployment.
+
+# **OUTPUT:**
+
+![Image](https://github.com/user-attachments/assets/2fd41cda-94ce-40ba-9a4e-1dd2beeef57c)
+
+ 
+ 
